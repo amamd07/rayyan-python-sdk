@@ -1,3 +1,4 @@
+[![Publish to TestPyPI](https://github.com/amamd07/rayyan-python-sdk/actions/workflows/publish-testpypi.yaml/badge.svg?branch=master)](https://github.com/amamd07/rayyan-python-sdk/actions/workflows/publish-testpypi.yaml)
 # Rayyan Python SDK
 
 A Python SDK for [Rayyan](https://www.rayyan.ai/), the popular systematic reviews platform.
